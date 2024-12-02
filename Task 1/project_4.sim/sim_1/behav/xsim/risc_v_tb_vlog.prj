@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/ALU.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Control_unit.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Data_memory.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Instruction_Parser.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Instruction_memory.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Mux.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Program_counter.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/RISC_V_processor.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Register_file.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/adder.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/alu_control.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/branching_unit.v" \
+"F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/immgen.v" \
+"../../../../project_4.srcs/sim_1/new/risc_v_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

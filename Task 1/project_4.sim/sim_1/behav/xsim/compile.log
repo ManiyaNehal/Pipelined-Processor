@@ -1,0 +1,28 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_64_bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Control_Unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Data_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Instruction_Parser.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InsParser
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Instruction_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Program_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Program_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/RISC_V_processor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RISC_V_processor
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/Register_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module registerFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/alu_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU_Control
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/branching_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module branching_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Bubble-Sort-on-Pipelined-RISC-V-Processor-main/task1/immgen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ImmGen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Maniya Nehal/Desktop/CA-Project/project_4/project_4.srcs/sim_1/new/risc_v_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module risc_v_tb
